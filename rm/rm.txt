@@ -1,0 +1,9 @@
+The rm (remove) command is one of the most frequently used commands in Linux/Unix-like operating systems. 
+
+USES OF "rm command"
+
+1 - Delete file
+rm file_name
+
+2 - Delete non-empty folder
+rm -r folder_name
