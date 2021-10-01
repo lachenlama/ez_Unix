@@ -1,0 +1,1 @@
+"ls" is a command in Unix systems to list computer files present in the folder you are working on at that particular time.
