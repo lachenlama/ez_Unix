@@ -1,0 +1,11 @@
+Git is software for tracking changes in any set of files, usually used for coordinating work among programmers collaboratively developing source code during software development. Its goals include speed, data integrity, and support for distributed, non-linear workflows.
+You can store your code on git hosting platforms like github and download/clone whenever you like.
+
+Main git commands are:
+git clone <url_of_repo> #Downloads the code from repository
+git add <file_or_directory_name> #Adds the file to the .git folder which can be later added in the commit
+git commit -m "helloworld" #Saves the files and changes which have to be uploaded, -m means message to like the commit with.
+git push origin master #Pushes the commited code/files to the remote origin which is repo by deafult and master branch.
+
+
+You can also do `git pull origin master` to download the code from repo's master branch if remote is ahead of local code.
