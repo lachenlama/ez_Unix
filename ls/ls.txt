@@ -1,1 +1,2 @@
 "ls" is a command in Unix systems to list computer files present in the folder you are working on at that particular time.
+Furthermore this command can be used to view the detials of the files present, i.e. owner, the permissions, date-time, etc.
