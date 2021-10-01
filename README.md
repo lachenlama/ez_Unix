@@ -13,4 +13,5 @@ Celebrate [Hacktoberfest](https://hacktoberfest.digitalocean.com/) by getting in
 ## Commands
 <!-- Add your contributed command down below :- -->
 - ls
+- cat
 
