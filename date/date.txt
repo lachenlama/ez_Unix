@@ -1,0 +1,1 @@
+date --- shows the current date and time.
