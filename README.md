@@ -13,9 +13,9 @@ Celebrate [Hacktoberfest](https://hacktoberfest.digitalocean.com/) by getting in
 
 ## Commands
 - ls
-- cat
 - df
 - history
 - chmod
 - cd
+- cat
 
