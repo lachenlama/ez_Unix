@@ -15,3 +15,4 @@ Celebrate [Hacktoberfest](https://hacktoberfest.digitalocean.com/) by getting in
 - ls
 - df
 - history
+- chmod
