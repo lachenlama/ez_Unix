@@ -1,12 +1,12 @@
 ## ls
-- "ls" is a command in the Linux/Unix system to list the computer files present in the folder you are working on at that particular time.
+- `ls` is a command in the Linux/Unix system to list the computer files present in the folder you are working on at that particular time.
 ---
 
 ```bash
 user@user:~$ ls
 cd/  chmod/  CONTRIBUTING.md  df/  history/  LICENSE  ls/  README.md
 ```
-- ls 
+- `ls` 
     Displays the files available in the current folder.
 
 ```bash
@@ -21,7 +21,7 @@ drwxr-xr-x 1 Owner staff    0 Oct  2 15:18 history/
 drwxr-xr-x 1 Owner staff    0 Oct  2 14:42 ls/
 -rw-r--r-- 1 Owner staff  954 Oct  2 15:18 README.md
 ```
-- ls -l 
+- `ls -l` 
     1. Displays the permission given to the folder where:
         - d -> directory
         - r -> read
@@ -52,6 +52,6 @@ drwxr-xr-x 1 Owner staff    0 Oct  2 15:18 history/
 drwxr-xr-x 1 Owner staff    0 Oct  2 14:42 ls/
 -rw-r--r-- 1 Owner staff  954 Oct  2 15:18 README.md
 ```
-- ls -lh
+- `ls -lh`
     1. Dipslays the same as ls -l but provides the size in B,MB, GB,or TB when the file size is larger than 1024 bytes.
 
