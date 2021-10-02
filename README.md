@@ -14,3 +14,8 @@ Celebrate [Hacktoberfest](https://hacktoberfest.digitalocean.com/) by getting in
 <!-- Add your contributed command down below :- -->
 - ls
 
+ssh [options] user@machine :- 	Remotely log in to another Linux machine, over the network.Leave an ssh session by typing exit.
+
+su [options] [user [arguments]] :-	Switch to another user account.
+
+tail [options] [filename] :-	Display the last n lines of a file (the default is 10).
