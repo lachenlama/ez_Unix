@@ -1,1 +1,0 @@
-"touch" command is used to change a file access and modification times (atime, mtime). It can also be used to create new file(s). This is a very versatile command and is used a lot while using unix terminals.
