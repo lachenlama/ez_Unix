@@ -11,8 +11,8 @@ Celebrate [Hacktoberfest](https://hacktoberfest.digitalocean.com/) by getting in
 * Other than that, the contributors are free to issue a PR with anything related to Cli in this repository.
 
 ## Commands
-<!-- Add your contributed command down below :- -->
 - ls
 - df
 - history
 - chmod
+- cd
