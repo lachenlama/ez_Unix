@@ -1,5 +1,0 @@
-"locate" is a command to locate a file. You can also use the -i argument to make it case-insensitive.
-For example
-locate -i diagramm
-will search for any file that contains the word "diagramm", whether it is uppercase or lowercase.
-Furthermore you can ignor punctuation and spaces (-p), limit the output (-l) or only print the number of found entries (-c) and many more.
