@@ -1,2 +1,0 @@
- As is a multitasking and multi-user systems it runs the multiple process at same time. So to list the current running process we have command "ps" (abbreviation for Process Status) Command "ps" list the current running process with PID and Other realted Infoamtion. Its 
- uses /proc file to get this information. 
