@@ -5,6 +5,7 @@ Celebrate [Hacktoberfest](https://hacktoberfest.digitalocean.com/) by getting in
 ## Repository's Aim
 * The repository is for Unix commands and their uses. The contributors may add what they wish within the context of being used in Unix Cli. 
 * We recommend the contributors to use Cli to clone, write code and push your code to this repository.
+* Make a branch with your github username to work in.
 * Please mention the command and also its uses by making a dir itself in the repository :
     * for instance, if "ls" is the command you are committing then name the directory file "ls" and writes the commands function as a .txt file inside the directory. Add a screenshot of the command and its output if needed.
 * Also add the command in the "Commands" section of "README.md" file below. 
@@ -13,9 +14,3 @@ Celebrate [Hacktoberfest](https://hacktoberfest.digitalocean.com/) by getting in
 ## Commands
 <!-- Add your contributed command down below :- -->
 - ls
-
-ssh [options] user@machine :- 	Remotely log in to another Linux machine, over the network.Leave an ssh session by typing exit.
-
-su [options] [user [arguments]] :-	Switch to another user account.
-
-tail [options] [filename] :-	Display the last n lines of a file (the default is 10).
