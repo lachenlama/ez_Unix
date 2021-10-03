@@ -9,5 +9,3 @@ Celebrate [Hacktoberfest](https://hacktoberfest.digitalocean.com/) by getting in
 * Please mention the command and also its uses by making a dir itself in the repository :
     * for instance, if "ls" is the command you are committing then name the directory file "ls" and write the command's function in a .md file inside the directory. Add a screenshot of the command and its output if needed. 
 * Other than that, the contributors are free to issue a PR with anything related to Cli in this repository.
-
-
