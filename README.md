@@ -10,7 +10,3 @@ Celebrate [Hacktoberfest](https://hacktoberfest.digitalocean.com/) by getting in
     * for instance, if "ls" is the command you are committing then name the directory file "ls" and writes the commands function as a .txt file inside the directory. Add a screenshot of the command and its output if needed.
 * Also add the command in the "Commands" section of "README.md" file below. 
 * Other than that, the contributors are free to issue a PR with anything related to Cli in this repository.
-
-## Commands
-<!-- Add your contributed command down below :- -->
-- ls
