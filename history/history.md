@@ -1,6 +1,6 @@
 # History
 
-history command is used to view the previously executed commands
+`history` command is used to view the previously executed commands
 
 ```bash
 user@user:~$ history
@@ -11,8 +11,8 @@ user@user:~$ history
   230  g++ WIPL.cpp
 ```
 
-- history <num>
-    - to see limited number of commands that executed previously
+- `history <num>`
+    - To see limited number of commands that executed previously
     
     ```bash
     user@user:~$ history 5
@@ -24,8 +24,8 @@ user@user:~$ history
     user@user:~$
     ```
     
-- every command executed is treated as an event and has a number associated with it
-    - using event number to execute command
+- Every command executed is treated as an event and has a number associated with it
+    - Using event number to execute command
     
     ```bash
     user@user:~$ history 5
@@ -42,7 +42,7 @@ user@user:~$ history
     user@user:~$
     ```
     
-    - :p to view the command associated with the event number
+    - `:p` To view the command associated with the event number
     
     ```bash
     user@user:~$ !1223:p
@@ -52,7 +52,7 @@ user@user:~$ history
     user@user:~$
     ```
     
-    - to execute a command without being stored in the history
+    - To execute a command without being stored in the history
     
     ```bash
     user@user:~$ echo $HISTFILE
@@ -63,6 +63,6 @@ user@user:~$ history
     user@user:~$
     ```
     
-    - to remove history
-        - history -d event_number to remove one event
-        - history -c to remove whole history
+    - To remove history
+        - `history -d event_number to remove one event`
+        - `history -c to remove whole history`
