@@ -40,22 +40,30 @@ user for whether to remove the file. If the response is not affirmative, the fil
 
 Remove file.txt
 
-```rm file.txt```
+```bash
+rm file.txt
+```
 
 **Example 2**:
 
 Remove multiple files (file1.txt, file2.txt, file3.txt)
 
-```rm file1.txt file2.txt file3.txt```
+```bash
+rm file1.txt file2.txt file3.txt
+```
 
 **Example 3**:
 
 Remove all files in the working directory. If it is write-protected, you will be prompted before rm removes it
 
-```rm * ```
+```bash
+rm * 
+```
 
 **Example 4**:
 
 Remove the directory dir1
 
-```rm -r dir1```
+```bash
+rm -r dir1
+```
