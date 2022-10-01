@@ -20,7 +20,7 @@ cd [Folder Name]
  cd dir_1/dir_2/dir_3
  ```
  
-**cd ~** : This command is used to change directory to the home directory. 
+__cd ~__ : This command is used to change directory to the home directory. 
  ```
  cd ~
  ```
