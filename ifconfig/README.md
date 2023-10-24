@@ -18,3 +18,6 @@ sudo apt-get install net-tools
 ``` bash
 yum install net-tools
 ```
+
+### Example
+![screenshot](https://github.com/harikesh409/ez_Unix/assets/3501554/6bde8fe6-305c-447d-a7a0-aa541004b6b4)
